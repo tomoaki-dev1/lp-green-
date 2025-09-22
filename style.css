@@ -5,9 +5,9 @@ body {
   color: #333;
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
 }
-h1 { color: #F7943D; }
+h1 { color: #28a745; }
 .hero {
-  background: #F7943D;
+  background: #28a745;
   color: #fff;
   display: flex;
   align-items: center;
@@ -19,14 +19,14 @@ h1 { color: #F7943D; }
 .hero-content p  { font-size: 18px; margin: 0 0 32px; }
 .btn {
   background: #fff;
-  color: #F7943D;
+  color: #28a745;
   padding: 12px 32px;
   border-radius: 999px;
   font-weight: bold;
   text-decoration: none;
   transition: .25s;
 }
-.btn:hover { background: #F2994A; color: #fff; }
+.btn:hover { background: #28a745; color: #fff; }
 .hero-image img { width: 400px; border-radius: 20px; display: block; }
 /* ヒーロー内の文字色を白で上書き */
 .hero h1,
@@ -182,7 +182,7 @@ h1 { color: #F7943D; }
 .feature-icon {
   width: 56px;
   height: 56px;
-  stroke: #F7943D;
+  stroke: #28a745;
   margin-bottom: 12px;
 }
 
